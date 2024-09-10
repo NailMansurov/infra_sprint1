@@ -1,0 +1,5 @@
+IP: 89.169.169.19;
+name_taski: https://taski-mnf.hopto.org;
+name_kittygram: https://kittygram-mnf.zapto.org;
+login: yc-user;
+password: 03011990Gg!;
